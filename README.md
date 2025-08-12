@@ -121,7 +121,7 @@ Add to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-shared-redis = { git = "https://github.com/Bliink-dev/shared-redis", branch = "main" }
+shared-redis = { git = "https://github.com/Eshya/shared-redis", branch = "main" }
 ```
 
 ## ⚙️ Configuration
@@ -622,7 +622,7 @@ cache_manager.clear_pattern("old_prefix:*").await?;
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Bliink-dev/shared-redis.git
+   git clone https://github.com/Eshya/shared-redis.git
    cd shared-redis
    ```
 
@@ -664,12 +664,6 @@ cargo test test_cache_operations
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-For support and questions:
-
-- 📧 Email: support@bliink.id
 
 ---
 
