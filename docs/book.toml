@@ -1,0 +1,28 @@
+[book]
+authors = ["Eshya"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Shared Redis Documentation"
+
+[output.html]
+git-repository-url = "https://github.com/Eshya/shared-redis"
+git-repository-icon = "fa-github"
+git-repository-edit-url = "https://github.com/Eshya/shared-redis/edit/main/docs/src/"
+git-repository-edit-branch = "main"
+
+[output.html.fold]
+enable = true
+level = 1
+
+[output.html.fold.enable]
+enable = true
+
+[output.html.fold.level]
+level = 1
+
+[output.html.fold.enable.enable]
+enable = true
+
+[output.html.fold.level.level]
+level = 1

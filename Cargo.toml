@@ -2,6 +2,14 @@
 name = "shared-redis"
 version = "1.0.0"
 edition = "2021"
+description = "A centralized Redis library for microservices architecture, providing caching, pub/sub messaging, and data persistence capabilities with automatic connection management and error handling."
+keywords = ["redis", "caching", "microservices", "pub-sub", "connection-pooling", "performance", "async", "tokio", "serde"]
+categories = ["asynchronous", "caching", "database", "web-programming"]
+license = "MIT"
+repository = "https://github.com/Eshya/shared-redis"
+documentation = "https://github.com/Eshya/shared-redis"
+readme = "README.md"
+authors = ["Eshya <achmadayas@gmail.com>"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
