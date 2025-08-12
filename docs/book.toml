@@ -14,15 +14,3 @@ git-repository-edit-branch = "main"
 [output.html.fold]
 enable = true
 level = 1
-
-[output.html.fold.enable]
-enable = true
-
-[output.html.fold.level]
-level = 1
-
-[output.html.fold.enable.enable]
-enable = true
-
-[output.html.fold.level.level]
-level = 1
